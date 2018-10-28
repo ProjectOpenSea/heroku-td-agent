@@ -42,7 +42,7 @@ DEPENDENCIES
   fluentd (~> 0.12.29)
 
 RUBY VERSION
-   ruby 2.3.1p112
+   ruby 2.3.8
 
 BUNDLED WITH
    1.17.1

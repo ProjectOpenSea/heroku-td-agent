@@ -2,6 +2,7 @@ GEM
   remote: http://rubygems.org/
   specs:
     cool.io (1.4.5)
+    fluent-plugin-datadog (0.10.4)
     fluent-plugin-td (0.10.29)
       fluentd (>= 0.10.27, < 2)
       td-client (~> 0.8.66)
@@ -36,6 +37,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  fluent-plugin-datadog (~> 0.10.4)
   fluent-plugin-td (= 0.10.29)
   fluentd (~> 0.12.29)
 
@@ -43,4 +45,4 @@ RUBY VERSION
    ruby 2.3.1p112
 
 BUNDLED WITH
-   1.16.4
+   1.17.1
